@@ -1,0 +1,7 @@
+[user]
+	name = orpheus6678
+	email = 66983935+orpheus6678@users.noreply.github.com
+[credential]
+	helper = /usr/lib/git-core/git-credential-libsecret
+[commit]
+	gpgSign = true
